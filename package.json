@@ -1,0 +1,29 @@
+{
+  "name": "remidiy.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/remidi/remidiy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remidiy/remidiy.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remidiy/remidiy.github.io/issues"
+  },
+  "homepage": "https://github.com/remidiy/remidiy.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "postcss-cli": "^9.1.0",
+    "postcss-import": "^14.1.0",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.2"
+  }
+}
